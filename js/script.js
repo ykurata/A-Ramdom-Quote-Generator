@@ -59,11 +59,7 @@ function printQuote() {
 printQuote();
 
 
-/***
-  When the "Show another quote" button is clicked, the event listener
-  below will be triggered, and it will call, or "invoke", the `printQuote`
-  function.
-***/
+// Show a new quote everytime the buttom is clicked.
 document.getElementById('loadQuote').addEventListener("click", printQuote, false);
 
 // Get a new quote in every 20 seconds.
