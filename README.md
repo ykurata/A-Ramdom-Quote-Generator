@@ -25,6 +25,20 @@ In this project, you'll create an app that displays random famous quotes each ti
 
 ### Create the getRandomQuote function.
 
+  * Be sure to name the function getRandomQuote.
+  * The function should take in one parameter, that you can rightly call, array, since the argument that will later get passed into this function when it is invoked will be the array of quotes.
+  * The body of the function should select and return a random quote object from the quotes array. Remember the method for finding a random number? If not, that's okay. Check the resources list in these instructions, or revisit the material in the unit. Alternatively, try using Google to see if you can find what you need on the web. Even professional developers use Google several times a day, so it's good to start developing your Google skills now.
+
+
 ### Create the printQuote function.
+  * Be sure to name the function printQuote.
+  * In the body of this function:
+
+    * getRandomQuote should be called on the array of quote obejcts, and the result stored in a variable.
+    * A new empty string should be created and stored in a variable.
+    * The required quote object properties, and the optional quote properties if they exist, should be appropriately concatenated to the new string you created using the following HTML template:
+
 
 ### Add code comments.  
+  * Replace the code comments in the file with your own code comments.
+  * The key to creating good code comments is to keep them brief, but clear, so that your fellow developers can get an idea of what's going on in your code at a glance, and without having to review every single line of code. Generally, good code comments are placed above important code blocks to explain what they do.
