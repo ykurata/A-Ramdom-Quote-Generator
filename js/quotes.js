@@ -7,7 +7,6 @@ var quotes = [
   {
     quote: "You only live once, but if you do it right, once is enough.",
     source: "Mae West",
-    year: 2000,
     tags: "life",
   },
   {
