@@ -7,14 +7,14 @@ In this project, you'll create an app that displays random famous quotes each ti
 
 ## Project Instruction
 
-Create an array of objects to hold the data for your quotes.
+### Create an array of objects to hold the data for your quotes.
 
 * In your JavaScript file, start by creating the array of quote objects. Be sure to use the name quotes when creating the variable that holds the array of quote objects.
 
 * The quotes array should be accessible in what's called "the global scope", which basically just means that it's not contained within a function.
 
 
-Add properties to the quote objects.
+### Add properties to the quote objects.
 
 * Each quote object in the quotes array should have the following properties:
 
@@ -23,8 +23,8 @@ Add properties to the quote objects.
   * citation - optional - a string identifying where the quote comes from, like a speech, publication or a movie. If there is no known publication, do not include this property on the object.
   * year - optional - a number identifying the year of the quote. If there is no known year, then do not include this property on the object.
 
-Create the getRandomQuote function.
+### Create the getRandomQuote function.
 
-Create the printQuote function.
+### Create the printQuote function.
 
-Add code comments.  
+### Add code comments.  
