@@ -1,4 +1,4 @@
-# A Random Quote Generator
+# Treehouse Full Stack JavaScript Techdegree Project 1
 
 ## Requirements
 
